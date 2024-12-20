@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("7462162109:AAE0AtfFPhMsjKqb9bphHcKU69EttEd4BU4")
+bot = telebot.TeleBot("")
 
 # Словарь тестов
 tests = {
